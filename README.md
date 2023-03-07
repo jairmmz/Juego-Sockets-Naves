@@ -11,6 +11,10 @@ Un ejemplo de juego web multijugador (.io). Lea el tutorial: Cómo crear un jueg
 
 Creado con [Node.js](https://nodejs.org/) y [socket.io](https://socket.io/).
 
+##Deploy del Videojuego
+Juego desplegado en Glitch :
+https://concise-smoggy-board.glitch.me
+
 
 ## Desarrollo
 
@@ -34,8 +38,7 @@ $ npm start
 ## Tests
 
 Para ejecutar las pruebas para este proyecto, simplemente
-Juego desplegado en Glitch :
-https://concise-smoggy-board.glitch.me
+
 
 ```bash
 $ npm install
