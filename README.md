@@ -3,9 +3,14 @@
     Juego de Naves con Sockets.io
 </h1>
 
+Desarrollado por: Jaime Ivan Carrasco Taipe y Jairo Muñoz Miranda.
+
+Asigntura: Sistemas Distribuidos.
+
 Un ejemplo de juego web multijugador (.io). Lea el tutorial: Cómo crear un juego web multijugador (.io).
 
 Creado con [Node.js](https://nodejs.org/) y [socket.io](https://socket.io/).
+
 
 ## Desarrollo
 
