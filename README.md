@@ -34,6 +34,8 @@ $ npm start
 ## Tests
 
 Para ejecutar las pruebas para este proyecto, simplemente
+Juego desplegado en Glitch :
+https://concise-smoggy-board.glitch.me
 
 ```bash
 $ npm install
