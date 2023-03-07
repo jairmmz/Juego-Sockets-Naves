@@ -7,18 +7,18 @@ Un ejemplo de juego web multijugador (.io). Lea el tutorial: Cómo crear un jueg
 
 Creado con [Node.js](https://nodejs.org/) y [socket.io](https://socket.io/).
 
-## Development
+## Desarrollo
 
-To get started, make sure you have Node and NPM installed. Then,
+Para comenzar, asegúrese de tener Node y NPM instalados. Entonces,
 
 ```bash
 $ npm install
 $ npm run develop
 ```
 
-on your local machine.
+En su máquina local.
 
-To run the project in a production setting, simply
+Para ejecutar el proyecto en un entorno de producción, simplemente
 
 ```bash
 $ npm install
@@ -28,7 +28,7 @@ $ npm start
 
 ## Tests
 
-To run the tests for this this project, simply
+Para ejecutar las pruebas para este proyecto, simplemente
 
 ```bash
 $ npm install
