@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="An Example .io Game" title="An Example .io Game" src="https://github.com/vzhou842/example-.io-game/blob/master/public/assets/icon.svg" width="140"> <br />
-    An Example .io Game
+    Juego de Naves con Sockets.io
 </h1>
 <h4 align="center">
   <a href="https://example-io-game.victorzhou.com">https://example-io-game.victorzhou.com</a>
@@ -12,11 +12,9 @@
   </a>
 </p>
 
-An example multiplayer (.io) web game. Read the walkthrough: [**How to Build a Multiplayer (.io) Web Game**](https://victorzhou.com/blog/build-an-io-game-part-1/).
+Un ejemplo de juego web multijugador (.io). Lea el tutorial: Cómo crear un juego web multijugador (.io).
 
-Built with [Node.js](https://nodejs.org/), [socket.io](https://socket.io/), and [HTML5 Canvas](https://www.w3schools.com/html/html5_canvas.asp).
-
-To see this code with [Flow](https://flow.org/) typing, visit the [flow branch](https://github.com/vzhou842/example-.io-game/tree/flow).
+Creado con [Node.js](https://nodejs.org/) y [socket.io](https://socket.io/).
 
 ## Development
 
