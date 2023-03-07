@@ -1,5 +1,4 @@
 // Learn more about this file at:
-// https://victorzhou.com/blog/build-an-io-game-part-1/#5-client-rendering
 import { debounce } from 'throttle-debounce';
 import { getAsset } from './assets';
 import { getCurrentState } from './state';
@@ -59,8 +58,8 @@ function renderBackground(x, y) {
     backgroundY,
     MAP_SIZE / 2,
   );
-  backgroundGradient.addColorStop(0, 'black');
-  backgroundGradient.addColorStop(1, 'gray');
+  backgroundGradient.addColorStop(0, '#000');
+  backgroundGradient.addColorStop(1, '#3352FF');
   context.fillStyle = backgroundGradient;
   context.fillRect(0, 0, canvas.width, canvas.height);
 }
